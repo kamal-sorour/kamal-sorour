@@ -74,39 +74,6 @@ Clean architecture. Predictable state. Interfaces that feel effortless. That's t
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F7FF&height=2&width=100%" />
 </div>
 
-## 🏗️ Core Architecture & Projects
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Ecosystem
-
-<img src="https://raw.githubusercontent.com/kamal-sorour/e-commerce/refs/heads/main/src/assets/logo.png" width="100%"/>
-
-**Yassify** — a premium online grocery store for fresh, high-quality produce and everyday essentials. Built for fast delivery, real-time inventory, and a seamless checkout experience.
-
-`React` `Node.js` `MongoDB` `Express`
-
-**[View Source Code ↗](https://github.com/kamal-sorour/e-commerce)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Yass Social Platform
-
-<img src="https://raw.githubusercontent.com/kamal-sorour/yass-social/refs/heads/main/src/assets/logo.png" width="100%"/>
-
-**Yass** — a modern, production-ready social networking platform connecting people seamlessly, with a focus on caching, scalable architecture, and a clean, responsive UI across devices.
-
-`Next.js` `TypeScript` `PostgreSQL` `Redis`
-
-**[View Source Code ↗](https://github.com/kamal-sorour/yass-social)**
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 <div align="center">
