@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%3E_Initializing+Linux+environment...;%3E_Mounting+Fullstack+Architecture...;%3E_Executing+Heavenly+Restriction+Protocol...;%3E_Zero+Bloat.+Raw+Performance." alt="Typing OS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A3E635&center=true&vCenter=true&width=800&lines=%3E_Initializing+Linux+environment...;%3E_Mounting+Fullstack+Architecture...;%3E_Executing+Heavenly+Restriction+Protocol...;%3E_Zero+Bloat.+Raw+Performance." alt="Typing OS" />
 </div>
 
 <div align="center">
